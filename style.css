@@ -1,0 +1,68 @@
+
+.name-highlight{
+    color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+    
+}
+.half-width img{
+    width: 60%;
+}
+.header{
+    background-image: url("personal-website/header-bg.png");
+    border: 1px solid whitesmoke;
+   background-repeat: no-repeat;
+  
+}
+section{
+    height: 500px;
+    width: 60%;
+   
+    margin: 0 20% 0 20%;
+  
+}
+.biography{
+    background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    border: 1px solid whitesmoke
+    
+}
+.latest-work{
+     background-image: url("personal-website/latest-work-bg.png");
+     background-repeat: no-repeat;
+     border: 1px solid whitesmoke
+     
+}
+.latest-title{
+    text-align: center;
+    padding-top: 2%;
+    
+}
+.half-width-img{
+    width: 30%; 
+    float: left;
+    padding-top: 7%;
+    padding-left: 3%;
+}
+.final-sec{
+    background-image: url("personal-website/footer-bg.png");
+    text-align: center;
+}
+.final-button{
+    text-align: center;
+    background-color: brown;
+    width: 65%;
+    font-size: 2rem;
+    margin-left:18%;
+    border: 2px solid greenyellow;
+    border-radius: 20px;
+    
+}
+footer{
+    font-size: 1.5rem;
+    padding-top: 7%;
+}
